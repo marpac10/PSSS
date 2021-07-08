@@ -1,7 +1,8 @@
 # ProgettoPSSS
 Repository per il progetto per l'esame di Progettazione e Sviluppo di Sistemi Software
 
-Componenti :
+Contenuto :
+
 Campo_sportivo -> cartella contenente l'implementazione della soluzione in JAVA
 
 ProgettoPSSS.zip -> file con il codice eclipse per l'implementazione
